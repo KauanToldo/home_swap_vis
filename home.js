@@ -42,7 +42,7 @@ looker.plugins.visualizations.add({
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;">
-            <div style="height: 8vh; width: 100%; padding: 25px 45px; display: flex; align-items: center;">
+            <div style="width: 100%; padding: 25px 45px; display: flex; align-items: center;">
             <img id="logo" src="https://cdn.prod.website-files.com/60145959f19bd32ea3ea4d53/6706d71074cb86ba3520b7a0_swap-logo-2024.svg" alt="Logo" style="width: 150px;">
             </div>
 
@@ -122,12 +122,12 @@ looker.plugins.visualizations.add({
 
                         .
                 </style>
-                <div style="position: relative;z-index: 5; width: 100%; height: 100vh; margin: 0; padding: 0; overflow: hidden; box-sizing: border-box; font-family: 'Montserrat', sans-serif;;
+                <div style="position: relative;z-index: 5; width: 100%; height: 100%; margin: 0; padding: 0; overflow: hidden; box-sizing: border-box; font-family: 'Montserrat', sans-serif;;
                 background-image: url(https://cdn.prod.website-files.com/60145959f19bd32ea3ea4d53/6706d7d50a21372063d65ef5_swap-new-banner.png);
                 background-position: center;
                 background-size: cover;
                 background-repeat: no-repeat;">
-                    <div style="height: 8vh; width: 100%; padding: 25px 45px; display: flex; align-items: center;">
+                    <div style="width: 100%; padding: 25px 45px; display: flex; align-items: center;">
                     <img id="logo" src="https://cdn.prod.website-files.com/60145959f19bd32ea3ea4d53/6706d71074cb86ba3520b7a0_swap-logo-2024.svg" alt="Logo" style="width: 150px;">
                     </div>
 
