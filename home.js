@@ -31,9 +31,27 @@ looker.plugins.visualizations.add({
                 width: 100% !important;
             }
 
+            .btn-new-version {
+                border-radius: 12px ;
+                border: transparent;
+                padding: 15px;
+                margin-top: 20px;
+                box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+                font-size: 15px;
+                background-color: #ffffff;
+                cursor: pointer;
+                transition: .2s ease;
+            }
+
+            .btn-new-version:hover {
+                scale: 1.05;
+                box-shadow: 0 6px 14px rgba(0, 0, 0, 0.1);
+            }
+
             body {
                 width: 100% !important;
             }
+
         </style>
         <div style="position: relative;z-index: 5; width: 100%; height: 100vh; margin: 0; padding: 0; overflow: hidden; box-sizing: border-box; font-family: 'Montserrat', sans-serif; display: flex; justify-content: center; align-items: center;
             background-image: url(https://cdn.prod.website-files.com/60145959f19bd32ea3ea4d53/6706d7d50a21372063d65ef5_swap-new-banner.png);
@@ -73,7 +91,7 @@ looker.plugins.visualizations.add({
                     <img src="https://cdn-icons-png.flaticon.com/512/5422/5422411.png" alt="Redirecionar" width="25" height="25" style="margin-top: -6px;">
                     </div>
                 </div>
-
+                    <a href="https://swapbi.cloud.looker.com/embed/dashboards/40"><button class="btn-new-version">Operação Versão Nova</button></a>  
                 </div>
             </div>
             </div>
@@ -82,12 +100,12 @@ looker.plugins.visualizations.add({
 
         done();
         document.querySelector("#card1").addEventListener("click", () => {
-            window.open("https://swapbi.cloud.looker.com/dashboards/37", "_blank");
+            window.open("https://swapbi.cloud.looker.com/embed/dashboards/37", "_blank");
         })
         document.querySelector("#card2").addEventListener("click", () => {
-            window.open("https://swapbi.cloud.looker.com/dashboards/38", "_blank");
+            window.open("https://swapbi.cloud.looker.com/embed/dashboards/38", "_blank");
         })
         document.querySelector("#card3").addEventListener("click", () => {
-            window.open("https://swapbi.cloud.looker.com/dashboards/39", "_blank");
+            window.open("https://swapbi.cloud.looker.com/embed/dashboards/39", "_blank");
         })
 }});
