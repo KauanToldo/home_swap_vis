@@ -71,7 +71,7 @@ looker.plugins.visualizations.add({
                 <div class="card" id="card1" style="background-color: #ffffff; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); border-radius: 12px; width: 350px; overflow: hidden;">
                     <img src="https://img.freepik.com/free-photo/person-office-analyzing-checking-finance-graphs_23-2150377128.jpg?ga=GA1.1.908972054.1747658034&semt=ais_hybrid&w=740" alt="Imagem 1" style="width: 100%; height: 200px; object-fit: cover;">
                     <div style="padding: 20px; text-align: center; display: flex; align-items: center; justify-content: center; gap: 5px;">
-                    <a href="https://swapbi.cloud.looker.com/dashboards/37" target="_blank" style="display: flex; align-items: center;font-size: 20px; margin-bottom: 8px; font-weight: bold; color: #333; text-decoration: none; display: block; cursor: pointer;">Resultado Operacional</a>
+                    <h1 style="display: flex; align-items: center;font-size: 20px; margin-bottom: 8px; font-weight: bold; color: #333; text-decoration: none; display: block; cursor: pointer;">Resultado Operacional</h1>
                     <img src="https://cdn-icons-png.flaticon.com/512/5422/5422411.png" alt="Redirecionar" width="25" height="25" style="margin-top: -4px;">
                     </div>
                 </div>
@@ -79,7 +79,7 @@ looker.plugins.visualizations.add({
                 <div class="card" id="card2" style="background-color: #ffffff; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); border-radius: 12px; width: 350px; overflow: hidden;">
                     <img src="https://img.freepik.com/free-photo/cooperation-analyst-chart-professional-paper-economics_1418-47.jpg?ga=GA1.1.908972054.1747658034&semt=ais_hybrid&w=740" alt="Imagem 2" style="width: 100%; height: 200px; object-fit: cover;">
                     <div style="padding: 20px; text-align: center; display: flex; align-items: center; justify-content: center; gap: 5px;">
-                    <a href="https://swapbi.cloud.looker.com/dashboards/38" target="_blank" style="display: flex; align-items: center; font-size: 20px; margin-bottom: 8px; font-weight: bold; color: #333; text-decoration: none; display: block; cursor: pointer;">Operação</a>
+                    <h1 style="display: flex; align-items: center; font-size: 20px; margin-bottom: 8px; font-weight: bold; color: #333; text-decoration: none; display: block; cursor: pointer;">Operação</h1>
                     <img src="https://cdn-icons-png.flaticon.com/512/5422/5422411.png" alt="Redirecionar" width="25" height="25" style="margin-top: -6px;">
                     </div>
                 </div>
@@ -87,7 +87,7 @@ looker.plugins.visualizations.add({
                 <div class="card" id="card3" style="background-color: #ffffff; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); border-radius: 12px; width: 350px; overflow: hidden;">
                     <img src="https://img.freepik.com/free-photo/close-up-coins-saved-energy-crisis-expenses_23-2150061829.jpg?ga=GA1.1.908972054.1747658034&semt=ais_hybrid&w=740" alt="Imagem 3" style="width: 100%; height: 200px; object-fit: cover;">
                     <div style="padding: 20px; text-align: center; display: flex; align-items: center; justify-content: center; gap: 5px;">
-                    <a href="https://swapbi.cloud.looker.com/dashboards/39" target="_blank" style="display: flex; align-items: center; font-size: 20px; margin-bottom: 8px; font-weight: bold; color: #333; text-decoration: none; display: block; cursor: pointer;">Receitas e Custos</a>
+                    <h1 style="display: flex; align-items: center; font-size: 20px; margin-bottom: 8px; font-weight: bold; color: #333; text-decoration: none; display: block; cursor: pointer;">Receitas e Custos</h1>
                     <img src="https://cdn-icons-png.flaticon.com/512/5422/5422411.png" alt="Redirecionar" width="25" height="25" style="margin-top: -6px;">
                     </div>
                 </div>
