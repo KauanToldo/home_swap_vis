@@ -91,8 +91,9 @@ looker.plugins.visualizations.add({
                     <img src="https://cdn-icons-png.flaticon.com/512/5422/5422411.png" alt="Redirecionar" width="25" height="25" style="margin-top: -6px;">
                     </div>
                 </div>
-                    <a href="https://swapbi.cloud.looker.com/embed/dashboards/40"><button class="btn-new-version">Operação Versão Nova</button></a>  
+                      
                 </div>
+                <a href="https://swapbi.cloud.looker.com/embed/dashboards/40"><button class="btn-new-version">Operação Versão Nova</button></a>
             </div>
             </div>
 
