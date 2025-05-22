@@ -93,7 +93,7 @@ looker.plugins.visualizations.add({
                 </div>
                       
                 </div>
-                <a href="https://swapbi.cloud.looker.com/embed/dashboards/40"><button class="btn-new-version">Operação Versão Nova</button></a>
+                <a href="https://swapbi.cloud.looker.com/embed/dashboards/40" target="_blank"><button class="btn-new-version">Operação Versão Nova</button></a>
             </div>
             </div>
 
